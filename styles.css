@@ -7,6 +7,9 @@
             border: 5px solid rgb(255, 188, 188);
             height: 200px;
         }
+.row2{
+	background-color:#000;
+}
         .col {
             border: 2px dotted rgb(38, 38, 43);
         }
